@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../КУРС/6-сабак(bio site)"
+		},
+		{
+			"path": "../../Курсовая работа/1"
+		},
+		{
+			"path": "../1"
+		},
+		{
+			"path": "../../../Downloads/Wep-site-coffe-main/Wep-site-coffe-main"
+		},
+		{
+			"path": "../../КУРС/8-сабак"
+		},
+		{
+			"path": "../../КУРС/8-сабак проект 1"
+		},
+		{
+			"path": "../../КУРС/2-сабак"
+		},
+		{
+			"path": "../Аудио"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1"
+	}
+}
